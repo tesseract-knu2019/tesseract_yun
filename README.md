@@ -1,2 +1,3 @@
-# tesseract_yun
-Tesseract Training
+# tesseract for running with eng + kor
+
+
